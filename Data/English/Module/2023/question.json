@@ -11,12 +11,12 @@
         "D": "conscientious"
     },
     "correct_choice": "A",
-    "correct_percentage": 10,
+    "correct_percentage": 0,
     "choice_percentages": {
-        "A": 20,
-        "B": 20,
-        "C": 20,
-        "D": 20
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
     },
-    "explanation": "A"
+    "explanation": ""
 }
