@@ -1,0 +1,22 @@
+{
+    "subject_name": "English",
+    "system_name": "Module 6: Education Today",
+    "question_id": "2023_01_09_Q9",
+    "question_header": "",
+    "question_text": "One of the good things about teaching young children is their ………….",
+    "choices": {
+        "A": "enthusiast",
+        "B": "enthusiasm",
+        "C": "enthusiastically",
+        "D": "enthusiastic"
+    },
+    "correct_choice": "B",
+    "correct_percentage": 0,
+    "choice_percentages": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
+    },
+    "explanation": ""
+}
