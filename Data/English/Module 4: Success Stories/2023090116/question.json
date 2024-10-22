@@ -1,0 +1,22 @@
+{
+    "subject_name": "English",
+    "system_name": "Module 4: Success Stories",
+    "question_id": "2023_09_01_Q16",
+    "question_header": "",
+    "question_text": "Scientists designed a system…could transmit radio signals between countries.",
+    "choices": {
+        "A": "which",
+        "B": "where",
+        "C": "who",
+        "D": "when"
+    },
+    "correct_choice": "A",
+    "correct_percentage": 0,
+    "choice_percentages": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
+    },
+    "explanation": ""
+}
