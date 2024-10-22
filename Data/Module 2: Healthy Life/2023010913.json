@@ -1,0 +1,22 @@
+{
+    "subject_name": "English",
+    "system_name": "Module 2: Healthy Life",
+    "question_id": "2023_01_09_Q13",
+    "question_header": "",
+    "question_text": "Nowadays, many doctors…homoeopathy a viable option for some diseases.",
+    "choices": {
+        "A": "were considered",
+        "B": "are considered",
+        "C": "consider",
+        "D": "had considered"
+    },
+    "correct_choice": "C",
+    "correct_percentage": 0,
+    "choice_percentages": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
+    },
+    "explanation": ""
+}
