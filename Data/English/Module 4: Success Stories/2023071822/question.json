@@ -1,0 +1,22 @@
+{
+    "subject_name": "English",
+    "system_name": "Module 4: Success Stories",
+    "question_id": "2023071822",
+    "question_header": "",
+    "question_text": "Mr. Sulieman designed the building of the new hospital in Amman in 2015. The sentence which emphasises the underlined words in the sentence above is......",
+    "choices": {
+        "A": "it was Mr. Sulieman who designed the building of the new hospital in Amman in 2015.",
+        "B": "the year when Mr. Sulieman designed the building of the new hospital in Amman was 2015.",
+        "C": "it was the building of the new hospital in Amman that Mr. Sulieman designed in 2015.",
+        "D": "the city where Mr. Sulieman designed the building of the new hospital in was Amman in 2015."
+    },
+    "correct_choice": "C",
+    "correct_percentage": 0,
+    "choice_percentages": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
+    },
+    "explanation": ""
+}

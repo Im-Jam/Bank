@@ -1,0 +1,22 @@
+{
+    "subject_name": "English",
+    "system_name": "Module 2: Healthy Life",
+    "question_id": "2023071803",
+    "question_header": "",
+    "question_text": "………… is a state of unconsciousness caused by a certain injury and that lasts for an extended period of time.",
+    "choices": {
+        "A": "Dementia",
+        "B": "Cancer",
+        "C": "Coma",
+        "D": "Paediatrics"
+    },
+    "correct_choice": "C",
+    "correct_percentage": 0,
+    "choice_percentages": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
+    },
+    "explanation": ""
+}

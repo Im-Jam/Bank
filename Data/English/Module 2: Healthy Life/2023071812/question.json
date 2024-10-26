@@ -1,0 +1,22 @@
+{
+    "subject_name": "English",
+    "system_name": "Module 2: Healthy Life",
+    "question_id": "2023071812",
+    "question_header": "",
+    "question_text": "My family and I **used to** go camping once a month, but we stopped doing that when we moved to the city.",
+    "choices": {
+        "A": "are used to",
+        "B": "used to",
+        "C": "get used to",
+        "D": "was used to"
+    },
+    "correct_choice": "B",
+    "correct_percentage": 0,
+    "choice_percentages": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
+    },
+    "explanation": ""
+}

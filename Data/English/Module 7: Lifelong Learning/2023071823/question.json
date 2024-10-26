@@ -1,0 +1,22 @@
+{
+    "subject_name": "English",
+    "system_name": "Module 7: Lifelong Learning",
+    "question_id": "2023071823",
+    "question_header": "",
+    "question_text": "\"How can I translate these texts into English?\" The correct indirect question of the one above is......",
+    "choices": {
+        "A": "could you explain how I can translate these texts into English?",
+        "B": "could you explain how could I translate these texts into English?",
+        "C": "could you explain how I could translate these texts into English?",
+        "D": "could you explain how can I translate these texts into English?"
+    },
+    "correct_choice": "A",
+    "correct_percentage": 0,
+    "choice_percentages": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
+    },
+    "explanation": ""
+}

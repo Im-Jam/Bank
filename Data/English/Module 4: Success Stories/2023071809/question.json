@@ -1,0 +1,22 @@
+{
+    "subject_name": "English",
+    "system_name": "Module 4: Success Stories",
+    "question_id": "2023071809",
+    "question_header": "",
+    "question_text": "Rasha made the most **successful** presentation about how to protect the rare kinds of plants.",
+    "choices": {
+        "A": "successful",
+        "B": "unsuccessful",
+        "C": "fruitful",
+        "D": "unfruitful"
+    },
+    "correct_choice": "A",
+    "correct_percentage": 0,
+    "choice_percentages": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
+    },
+    "explanation": ""
+}

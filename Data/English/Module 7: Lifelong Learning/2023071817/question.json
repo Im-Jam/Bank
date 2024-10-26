@@ -1,0 +1,22 @@
+{
+    "subject_name": "English",
+    "system_name": "Module 7: Lifelong Learning",
+    "question_id": "2023071817",
+    "question_header": "",
+    "question_text": "Solving different kinds of puzzles .......... to keep the brain active.",
+    "choices": {
+        "A": "are believed",
+        "B": "has believed",
+        "C": "is believed",
+        "D": "believes"
+    },
+    "correct_choice": "C",
+    "correct_percentage": 0,
+    "choice_percentages": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
+    },
+    "explanation": ""
+}

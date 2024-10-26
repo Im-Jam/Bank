@@ -1,0 +1,22 @@
+{
+    "subject_name": "English",
+    "system_name": "Module 2: Healthy Life",
+    "question_id": "2023071804",
+    "question_header": "",
+    "question_text": "One of Dr Lana's plans is to ………. on homeopathy next year in Cairo. She is interested in complementary medicine.",
+    "choices": {
+        "A": "catch attention",
+        "B": "attend a course",
+        "C": "shake hands",
+        "D": "cause offence"
+    },
+    "correct_choice": "B",
+    "correct_percentage": 0,
+    "choice_percentages": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
+    },
+    "explanation": ""
+}

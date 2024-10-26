@@ -1,0 +1,22 @@
+{
+    "subject_name": "English",
+    "system_name": "Module 6: Education Today",
+    "question_id": "2023071829",
+    "question_header": "",
+    "question_text": "The earlier you start in the morning… the more… your revision will be.",
+    "choices": {
+        "A": "/ benaficeal",
+        "B": "/ beneficial",
+        "C": "/ beneficial",
+        "D": "/ bineficial"
+    },
+    "correct_choice": "B",
+    "correct_percentage": 0,
+    "choice_percentages": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
+    },
+    "explanation": ""
+}

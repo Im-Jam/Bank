@@ -1,0 +1,22 @@
+{
+    "subject_name": "English",
+    "system_name": "Module 10: Career Choices",
+    "question_id": "2023071810",
+    "question_header": "",
+    "question_text": "It is clear from the enclosed **curriculum vitae** that Abeer has worked in sales for a large pharmaceutical company for many years.",
+    "choices": {
+        "A": "resume",
+        "B": "application",
+        "C": "cover letter",
+        "D": "curriculum vitae"
+    },
+    "correct_choice": "D",
+    "correct_percentage": 0,
+    "choice_percentages": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
+    },
+    "explanation": ""
+}

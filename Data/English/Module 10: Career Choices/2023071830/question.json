@@ -1,0 +1,22 @@
+{
+    "subject_name": "English",
+    "system_name": "Module 10: Career Choices",
+    "question_id": "2023071830",
+    "question_header": "",
+    "question_text": "(I am a dedicated, ambitious worker. I have high expectations of myself and the students I teach.) The given information in the sentence above represents one of the following headings in a curriculum vitae:",
+    "choices": {
+        "A": "personal attributes",
+        "B": "contact details",
+        "C": "reference",
+        "D": "work experience"
+    },
+    "correct_choice": "A",
+    "correct_percentage": 0,
+    "choice_percentages": {
+        "A": 0,
+        "B": 0,
+        "C": 0,
+        "D": 0
+    },
+    "explanation": ""
+}
